@@ -1,0 +1,58 @@
+name,observed_version,category,package_id,version_code,source_ref
+AdAway,4.3.1,System,org.adaway,40301,metadata/org.adaway.yml
+Andor's Trail,0.7.5,Games,com.gpl.rpg.AndorsTrail,46,metadata/com.gpl.rpg.AndorsTrail.yml
+andOTP,0.6.3.1,Security,org.shadowice.flocke.andotp,26,metadata/org.shadowice.flocke.andotp.yml
+AnkiDroid,2.9.1,Science & Education,com.ichi2.anki,20901300,metadata/com.ichi2.anki.yml
+AntennaPod,1.7.3c,Multimedia,de.danoeh.antennapod,1070397,metadata/de.danoeh.antennapod.yml
+AnySoftKeyboard,1.10.606,Writing,com.menny.android.anysoftkeyboard,5781,metadata/com.menny.android.anysoftkeyboard.yml
+ConnectBot,1.9.6-oss,Internet,org.connectbot,10906000,metadata/org.connectbot.yml
+Conversations,2.6.1+fcr,Internet,eu.siacs.conversations,351,metadata/eu.siacs.conversations.yml
+DAVx⁵,2.6.2-ose,Internet,at.bitfire.davdroid,321,metadata/at.bitfire.davdroid.yml
+Document Viewer,2.8.1,Reading,org.sufficientlysecure.viewer,2817,metadata/org.sufficientlysecure.viewer.yml
+F-Droid,1.7.1,System,org.fdroid.fdroid,1007051,metadata/org.fdroid.fdroid.yml
+FairEmail,1.870,Internet,eu.faircode.email,870,metadata/eu.faircode.email.yml
+Fennec F-Droid,68.3.0,Internet,org.mozilla.fennec_fdroid,683020,metadata/org.mozilla.fennec_fdroid.yml
+J2ME Loader,1.5.5,Games,ru.playsoftware.j2meloader,72,metadata/ru.playsoftware.j2meloader.yml
+K-9 Mail,5.600,Internet,com.fsck.k9,26000,metadata/com.fsck.k9.yml
+KDE Connect,1.13.5,System,org.kde.kdeconnect_tp,11350,metadata/org.kde.kdeconnect_tp.yml
+KeePass DX,2.5.0.0beta25,Security,com.kunzisoft.keepass.libre,25,metadata/com.kunzisoft.keepass.libre.yml
+KeePassDroid,2.4.1,Security,com.android.keepass,180,metadata/com.android.keepass.yml
+KISS Launcher,3.11.2,Theming,fr.neamar.kiss,161,metadata/fr.neamar.kiss.yml
+KOReader,v2019.11,Reading,org.koreader.launcher,7129,metadata/org.koreader.launcher.yml
+LibreOffice Viewer,5.2.3.1/01ec8f3,Reading,org.documentfoundation.libreoffice,11,metadata/org.documentfoundation.libreoffice.yml
+Loop Habit Tracker,1.7.11,Sports & Health,org.isoron.uhabits,38,metadata/org.isoron.uhabits.yml
+Markor,2.2.4,Writing,net.gsantner.markor,106,metadata/net.gsantner.markor.yml
+MuPDF Viewer,1.16.1,Reading,com.artifex.mupdf.viewer.app,70,metadata/com.artifex.mupdf.viewer.app.yml
+NewPipe,0.18.0,Multimedia,org.schabi.newpipe,800,metadata/org.schabi.newpipe.yml
+Nextcloud,3.9.2,Internet,com.nextcloud.client,30090290,metadata/com.nextcloud.client.yml
+Nextcloud Talk,7.0.8,Internet,com.nextcloud.talk2,122,metadata/com.nextcloud.talk2.yml
+Open Camera,1.47.3,Multimedia,net.sourceforge.opencamera,74,metadata/net.sourceforge.opencamera.yml
+OpenKeychain,5.4,Security,org.sufficientlysecure.keychain,54000,metadata/org.sufficientlysecure.keychain.yml
+OpenVPN for Android,0.7.7,Internet,de.blinkt.openvpn,160,metadata/de.blinkt.openvpn.yml
+OsmAnd~,3.5.5,Navigation,net.osmand.plus,355,metadata/net.osmand.plus.yml
+OSMTracker for Android,0.7.2,Navigation,net.osmtracker,48,metadata/net.osmtracker.yml
+ownCloud,2.14.1,Internet,com.owncloud.android,21400100,metadata/com.owncloud.android.yml
+Primitive FTPd,5.17,Connectivity,org.primftpd,43,metadata/org.primftpd.yml
+Riot.im,0.9.9,Internet,im.vector.alpha,40090900,metadata/im.vector.alpha.yml
+Shattered Pixel Dungeon,0.7.5e,Games,com.shatteredpixel.shatteredpixeldungeon,382,metadata/com.shatteredpixel.shatteredpixeldungeon.yml
+Simple Calendar Pro,6.8.2,Multimedia,com.simplemobiletools.calendar.pro,169,metadata/com.simplemobiletools.calendar.pro.yml
+Simple Clock,5.0.4,System,com.simplemobiletools.clock,15,metadata/com.simplemobiletools.clock.yml
+Simple Contacts Pro,6.5.1,Phone & SMS,com.simplemobiletools.contacts.pro,54,metadata/com.simplemobiletools.contacts.pro.yml
+Simple Draw Pro,6.1.1,Graphics,com.simplemobiletools.draw.pro,50,metadata/com.simplemobiletools.draw.pro.yml
+Simple File Manager Pro,6.4.1,System,com.simplemobiletools.filemanager.pro,82,metadata/com.simplemobiletools.filemanager.pro.yml
+Simple Notes Pro,6.3.0,System,com.simplemobiletools.notes.pro,67,metadata/com.simplemobiletools.notes.pro.yml
+StreetComplete,15.0,Navigation,de.westnordost.streetcomplete,1501,metadata/de.westnordost.streetcomplete.yml
+SuperTuxKart,1.0,Games,org.supertuxkart.stk,105,metadata/org.supertuxkart.stk.yml
+Syncthing for Android,1.3.2,Internet,com.nutomic.syncthingandroid,4204,metadata/com.nutomic.syncthingandroid.yml
+Tasks.org,7.4.2,Writing,org.tasks,645,metadata/org.tasks.yml
+Termux,0.84,Development,com.termux,84,metadata/com.termux.yml
+Trackbook,1.2.2,Navigation,org.y20k.trackbook,36,metadata/org.y20k.trackbook.yml
+Transistor,3.2.2,Multimedia,org.y20k.transistor,69,metadata/org.y20k.transistor.yml
+Transportr,2.0.8,Navigation,de.grobox.liberario,117,metadata/de.grobox.liberario.yml
+Tusky,9.1,Internet,com.keylesspalace.tusky,68,metadata/com.keylesspalace.tusky.yml
+Vanilla Music,1.0.84,Multimedia,ch.blinkenlights.android.vanilla,10840,metadata/ch.blinkenlights.android.vanilla.yml
+Vespucci,14.0.12.0,Navigation,de.blau.android,1314,metadata/de.blau.android.yml
+VLC for Android,3.1.7,Multimedia,org.videolan.vlc,13010707,metadata/org.videolan.vlc.yml
+wallabag,2.3.0,Internet,fr.gaulupeau.apps.InThePoche,219,metadata/fr.gaulupeau.apps.InThePoche.yml
+Wikipedia,r/2.7.50282-r-2019-05-24,Internet,org.wikipedia,50282,metadata/org.wikipedia.yml
+Yaaic,1.1,Internet,org.yaaic,13,metadata/org.yaaic.yml

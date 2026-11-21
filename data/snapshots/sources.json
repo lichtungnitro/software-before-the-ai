@@ -1,0 +1,26 @@
+{
+  "ios": {
+    "platform": "ios",
+    "label": "2017 App Store survey",
+    "evidence_url": "https://github.com/divaymohan/apple-apps/blob/659a2dea8c8f3633c83ed0c51df9110feb6fee03/AppleStore.csv#L{source_ref}",
+    "identity_field": "store_id"
+  },
+  "android": {
+    "platform": "android",
+    "label": "2018 Google Play survey",
+    "evidence_url": "https://github.com/kishan0725/Google-Play-Store/blob/55bb1e1a22e0b5fe738a431a6d5e1845dd1a1e49/googleplaystore.csv#L{source_ref}",
+    "identity_field": "name"
+  },
+  "windows": {
+    "platform": "windows",
+    "label": "2019 Scoop Extras",
+    "evidence_url": "https://github.com/ScoopInstaller/Extras/blob/812ff4cbf1fc09f51624a2ba3673bc0af9001894/{source_ref}",
+    "identity_field": "source_ref"
+  },
+  "fdroid": {
+    "platform": "android",
+    "label": "2019 F-Droid build metadata",
+    "evidence_url": "https://github.com/f-droid/fdroiddata/blob/7dd43b663f45e7691070027259a9cd95ba8d70f0/{source_ref}",
+    "identity_field": "package_id"
+  }
+}

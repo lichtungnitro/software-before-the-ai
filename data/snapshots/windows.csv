@@ -1,0 +1,458 @@
+name,observed_version,category,source_ref
+3RVX,2.9.2,Windows utilities,bucket/3rvx.json
+7+ Taskbar Tweaker,5.8,Windows utilities,bucket/7tt.json
+Adobe Brackets,1.14.1,Developer tools,bucket/brackets.json
+Advanced Renamer,3.85,Windows utilities,bucket/advancedrenamer.json
+AIDA64 Extreme,6.20,Windows utilities,bucket/aida64extreme.json
+AkelPad,4.9.8,Developer tools,bucket/akelpad.json
+Alacritty,0.4.0,Developer tools,bucket/alacritty.json
+Album Art Downloader,1.03,Creative tools,bucket/album-art-downloader.json
+Altair GraphQL Client,2.4.2,Developer tools,bucket/altair.json
+AltDrag,1.1,Windows utilities,bucket/altdrag.json
+Android Studio,3.5.3.0,Developer tools,bucket/android-studio.json
+Anki,2.1.15,"Reading, office & science",bucket/anki.json
+AnyBurn,4.7,Windows utilities,bucket/anyburn.json
+AnyDesk,5.4.2,"Internet, messaging & games",bucket/anydesk.json
+Apache Directory Studio,2.0.0.v20180908-M14,Developer tools,bucket/apache-directory-studio.json
+Archi,4.6.0,Developer tools,bucket/archi.json
+Arduino IDE,1.8.10,Developer tools,bucket/arduino.json
+AS SSD Benchmark,2.0.6821.41776,Windows utilities,bucket/as-ssd.json
+AstroGrep,4.4.7,Developer tools,bucket/astrogrep.json
+Atom,1.42.0,Developer tools,bucket/atom.json
+Audacious,3.10.1,Creative tools,bucket/audacious.json
+Audacity,2.3.3,Creative tools,bucket/audacity.json
+Audio Switcher,1.8.0.142,Windows utilities,bucket/audioswitcher.json
+AutoHotkey,1.1.32.00,Windows utilities,bucket/autohotkey.json
+Axiom,1.7.7.0-alpha,Creative tools,bucket/axiom.json
+Azure Data Studio,1.14.1,Developer tools,bucket/azuredatastudio.json
+BabelMap,12.1.0.7,"Reading, office & science",bucket/babelmap.json
+Baka MPlayer,2.0.4,Creative tools,bucket/baka-mplayer.json
+balenaEtcher,1.5.70,Windows utilities,bucket/etcher.json
+Bandizip,6.25,Windows utilities,bucket/bandizip.json
+BareTail,3.50a,Developer tools,bucket/baretail.json
+Basilisk,2019.10.31,"Internet, messaging & games",bucket/basilisk.json
+Beaker Browser,0.8.8,"Internet, messaging & games",bucket/beaker.json
+Beyond Compare,4.3.3.24545,Developer tools,bucket/beyondcompare.json
+Bitwarden,1.16.6,"Internet, messaging & games",bucket/bitwarden.json
+BleachBit,3.0,Windows utilities,bucket/bleachbit.json
+Blender,2.81a,Creative tools,bucket/blender.json
+Brave,1.1.23,"Internet, messaging & games",bucket/brave.json
+Bulk Crap Uninstaller,4.15,Windows utilities,bucket/bulk-crap-uninstaller.json
+Bulk Rename Utility,3.3.1.0,Windows utilities,bucket/bulk-rename-utility.json
+calibre,4.7.0,"Reading, office & science",bucket/calibre.json
+Camunda Modeler,3.5.0,Developer tools,bucket/camunda-modeler.json
+Caprine,2.41.1,"Internet, messaging & games",bucket/caprine.json
+Captura,8.0.0,Creative tools,bucket/captura.json
+Carnac,2.3.3,Windows utilities,bucket/carnac.json
+CCleaner,5.63.7540,Windows utilities,bucket/ccleaner.json
+CDBurnerXP,4.5.8.7128,Windows utilities,bucket/cdburnerxp.json
+Celestia,1.6.1,Creative tools,bucket/celestia.json
+Chatterino,2.1.7,"Internet, messaging & games",bucket/chatterino.json
+CherryTree,0.38.9,"Reading, office & science",bucket/cherrytree.json
+Chromium,79.0.3945.88,"Internet, messaging & games",bucket/chromium.json
+Claws Mail,3.17.4-1,"Internet, messaging & games",bucket/claws-mail.json
+Clementine,1.3.1,Creative tools,bucket/clementine.json
+Code::Blocks,17.12,Developer tools,bucket/codeblocks.json
+CompactGUI,2.6.2,Windows utilities,bucket/compactgui.json
+ConEmu,19.10.12,Developer tools,bucket/conemu.json
+Console2,2.0.0.148,Developer tools,bucket/console2.json
+ConsoleZ,1.19.0.19104,Developer tools,bucket/consolez.json
+CopyQ,3.9.3,Windows utilities,bucket/copyq.json
+Core Temp,1.15.1,Windows utilities,bucket/coretemp.json
+CPU-Z,1.91,Windows utilities,bucket/cpu-z.json
+Cryptomator,1.4.15,"Internet, messaging & games",bucket/cryptomator.json
+CrystalDiskInfo,8.3.2,Windows utilities,bucket/crystaldiskinfo.json
+CrystalDiskMark,7.0.0g,Windows utilities,bucket/crystaldiskmark.json
+CudaText,1.92.0.0,Developer tools,bucket/cudatext.json
+CUETools,2.1.6,Creative tools,bucket/cuetools.json
+Dadroit JSON Viewer,1.1.1407,Developer tools,bucket/dadroitjsonviewer.json
+darktable,2.4.4,Creative tools,bucket/darktable.json
+DB Browser for SQLite,3.11.2,Developer tools,bucket/sqlitebrowser.json
+DBeaver,6.3.1,Developer tools,bucket/dbeaver.json
+DbVisualizer,10.0.25,Developer tools,bucket/dbvis.json
+DeaDBeeF,2019-09-08,Creative tools,bucket/deadbeef.json
+Defraggler,2.22.995,Windows utilities,bucket/defraggler.json
+Deluge,1.3.15,"Internet, messaging & games",bucket/deluge.json
+Dia,0.97.2,Creative tools,bucket/dia.json
+Diffinity,0.9.1,Developer tools,bucket/diffinity.json
+DiffMerge,4.2.0,Developer tools,bucket/diffmerge.json
+DiffPDF,2.1.3,Developer tools,bucket/diffpdf.json
+digiKam,6.4.0,Creative tools,bucket/digikam.json
+Discord,0.0.305,"Internet, messaging & games",bucket/discord.json
+DiskGenius,5.2.0.884,Windows utilities,bucket/diskgenius.json
+Ditto,3.22.88.0,Windows utilities,bucket/ditto.json
+Dopamine,1.5.14,Creative tools,bucket/dopamine.json
+DOSBox-X,0.82.24,"Internet, messaging & games",bucket/dosbox-x.json
+dotPeek,2019.3.1,Developer tools,bucket/dotPeek.json
+Double Commander,0.9.6,Windows utilities,bucket/doublecmd.json
+draw.io Desktop,12.4.2,Creative tools,bucket/draw.io.json
+DropIt,8.5.1,Windows utilities,bucket/dropit.json
+DS4Windows,2.0.2,Windows utilities,bucket/ds4windows.json
+Dual Monitor Tools,2.7,Windows utilities,bucket/dual-monitor-tools.json
+Dungeon Crawl Stone Soup,0.24.0,"Internet, messaging & games",bucket/stone-soup-tiles.json
+dupeGuru,4.0.4,Windows utilities,bucket/dupeguru.json
+Emacs,26.3,Developer tools,bucket/emacs.json
+eMule,0.50a,"Internet, messaging & games",bucket/emule.json
+Enpass,6.3.2.593,"Internet, messaging & games",bucket/enpass.json
+Everything,1.4.1.935,Windows utilities,bucket/everything.json
+Exaile,4.0.0,Creative tools,bucket/exaile.json
+Extraterm,0.48.0,Developer tools,bucket/extraterm.json
+f.lux,4.111,Windows utilities,bucket/flux.json
+Falkon,3.1.0,"Internet, messaging & games",bucket/falkon.json
+FastCopy,3.85,Windows utilities,bucket/fastcopy.json
+FastStone Capture,5.3,Creative tools,bucket/fscapture.json
+FastStone Image Viewer,7.4,Creative tools,bucket/fsviewer.json
+FBIde,0.4.6r4,Developer tools,bucket/fbide.json
+FFQueue,1.7.53,Creative tools,bucket/ffqueue.json
+FileZilla Client,3.46.3,"Internet, messaging & games",bucket/filezilla.json
+FileZilla Server,0.9.60.2,"Internet, messaging & games",bucket/filezilla-server.json
+FontBase,2.10.3,Windows utilities,bucket/fontbase.json
+FontForge,20190801,Creative tools,bucket/fontforge.json
+foobar2000,1.5,Creative tools,bucket/foobar2000.json
+Fork,1.42.6,Developer tools,bucket/fork.json
+FormatFactory,4.9.5.0,Creative tools,bucket/format-factory.json
+Foxit Reader,9.7.0.29455,"Reading, office & science",bucket/foxit-reader.json
+Franz,5.4.1,"Internet, messaging & games",bucket/franz.json
+fre:ac,1.0.32,Creative tools,bucket/freac.json
+Free Download Manager,5.1.38,"Internet, messaging & games",bucket/freedownloadmanager.json
+FreeCAD,0.18.4,Creative tools,bucket/freecad.json
+FreeCommander,2019.790a,Windows utilities,bucket/freecommander.json
+FreeMind,1.0.1,"Reading, office & science",bucket/freemind.json
+Freeplane,1.7.10,"Reading, office & science",bucket/freeplane.json
+Fritzing,0.9.3b,Creative tools,bucket/fritzing.json
+FurMark,1.20.9.0,Windows utilities,bucket/furmark.json
+GB Studio,1.1.0,Creative tools,bucket/gb-studio.json
+Geany,1.36,Developer tools,bucket/geany.json
+gedit,3.20.1,Developer tools,bucket/gedit.json
+Geek Uninstaller,1.4.7.142,Windows utilities,bucket/geekuninstaller.json
+Geekbench,5.1.0,Windows utilities,bucket/geekbench.json
+ghostwriter,1.8.0,"Reading, office & science",bucket/ghostwriter.json
+GifCam,6.0,Creative tools,bucket/gifcam.json
+GIMP,2.10.14-2,Creative tools,bucket/gimp.json
+Git Extensions,3.3,Developer tools,bucket/gitextensions.json
+GitAhead,2.6.1,Developer tools,bucket/gitahead.json
+GitHub Desktop,2.2.4,Developer tools,bucket/github.json
+GitKraken,6.4.1,Developer tools,bucket/gitkraken.json
+glogg,1.1.4,Developer tools,bucket/glogg.json
+gMKVExtractGUI,2.5.0,Creative tools,bucket/gmkvextractgui.json
+GNU TeXmacs,1.99.12,"Reading, office & science",bucket/texmacs.json
+GnuCash,3.7,"Reading, office & science",bucket/gnucash.json
+Godot Engine,3.1.2,Developer tools,bucket/godot.json
+GoldenDict,1.5.0-RC2-372-gc3ff15f,"Reading, office & science",bucket/goldendict.json
+Google Chrome,79.0.3945.88,"Internet, messaging & games",bucket/googlechrome.json
+gPodder,3.10.11,Creative tools,bucket/gpodder.json
+GPU-Z,2.28.0,Windows utilities,bucket/gpu-z.json
+GraphicsGale,2.08.21,Creative tools,bucket/graphicsgale.json
+Greenshot,1.2.10.6,Creative tools,bucket/greenshot.json
+grepWin,1.9.2,Developer tools,bucket/grepwin.json
+gretl,2019d,"Reading, office & science",bucket/gretl.json
+Gridea,0.9.0,"Reading, office & science",bucket/gridea.json
+HandBrake,1.3.0,Creative tools,bucket/handbrake.json
+HeidiSQL,10.3,Developer tools,bucket/heidisql.json
+HexChat,2.14.3,"Internet, messaging & games",bucket/hexchat.json
+Honeyview,5.31,Creative tools,bucket/honeyview.json
+HTTP Toolkit,0.1.17,"Internet, messaging & games",bucket/httptoolkit.json
+HTTrack,3.49.2,"Internet, messaging & games",bucket/httrack.json
+HWiNFO,6.20-4030,Windows utilities,bucket/hwinfo.json
+HWMonitor,1.41,Windows utilities,bucket/hwmonitor.json
+HxD,2.3.0.0,Developer tools,bucket/hxd.json
+Hydrus Network,378,Creative tools,bucket/hydrus-network.json
+Hyper,3.0.2,Developer tools,bucket/hyper.json
+ILSpy,5.0.2,Developer tools,bucket/ilspy.json
+ImageGlass,7.0.7.26,Creative tools,bucket/imageglass.json
+ImgBurn,2.5.8.0,Windows utilities,bucket/imgburn.json
+InfoQube,0.9.114q,"Reading, office & science",bucket/infoqube.json
+Inkscape,0.92.4,Creative tools,bucket/inkscape.json
+Inno Setup,6.0.3,Developer tools,bucket/inno-setup.json
+Insomnia,7.0.6,Developer tools,bucket/insomnia.json
+IntelliJ IDEA Community Edition,2019.3.1,Developer tools,bucket/idea.json
+IPFS Desktop,0.10.2,"Internet, messaging & games",bucket/ipfs-desktop.json
+IrfanView,4.53,Creative tools,bucket/irfanview.json
+Jameica,2.8.6,"Reading, office & science",bucket/jameica.json
+Jami,201912111752,"Internet, messaging & games",bucket/jami.json
+Jaspersoft Studio,6.11.0,Developer tools,bucket/jaspersoft-studio.json
+JD-GUI,1.6.6,Developer tools,bucket/jd-gui.json
+JetBrains Toolbox,1.16.6207,Developer tools,bucket/jetbrains-toolbox.json
+Jitsi Meet,1.1.1,"Internet, messaging & games",bucket/jitsi-meet.json
+Joplin,1.0.175,"Reading, office & science",bucket/joplin.json
+JPEGView,1.0.37,Creative tools,bucket/jpegview.json
+KakaoTalk,3.0.8.2360,"Internet, messaging & games",bucket/kakaotalk.json
+Kdenlive,19.04.1-2,Creative tools,bucket/kdenlive.json
+KDiff3,0.9.98,Developer tools,bucket/kdiff3.json
+KeePass,2.43,"Internet, messaging & games",bucket/keepass.json
+KeePassXC,2.5.1,"Internet, messaging & games",bucket/keepassxc.json
+KeeWeb,1.12.3,"Internet, messaging & games",bucket/keeweb.json
+Keypirinha,2.24,Windows utilities,bucket/keypirinha.json
+KiCad,5.1.5_3,Creative tools,bucket/kicad.json
+Kid3,3.8.1,Creative tools,bucket/kid3.json
+Kindle Comic Converter,5.5.2,Creative tools,bucket/kcc.json
+KLatexFormula,4.0.0,"Reading, office & science",bucket/klatexformula.json
+KNIME Analytics Platform,4.1.0,"Reading, office & science",bucket/knime.json
+Krita,4.2.8,Creative tools,bucket/krita.json
+LameXP,4.18.2240,Creative tools,bucket/lamexp.json
+LanguageTool,4.8,"Reading, office & science",bucket/languagetool.json
+Launchy,2.10.79,Windows utilities,bucket/launchy.json
+Lazarus,2.0.6,Developer tools,bucket/lazarus.json
+LazPaint,7.0.7,Creative tools,bucket/lazpaint.json
+LibreCAD,2.1.3,Creative tools,bucket/librecad.json
+LibreOffice,6.3.3,"Reading, office & science",bucket/libreoffice-stable.json
+LICEcap,1.28,Creative tools,bucket/licecap.json
+Light Table,0.8.1,Developer tools,bucket/lighttable.json
+Linphone,4.1.1,"Internet, messaging & games",bucket/linphone.json
+LINQPad,6.5,Developer tools,bucket/linqpad.json
+Listary,5.00.2843,Windows utilities,bucket/listary.json
+LiteIDE,36.2,Developer tools,bucket/liteide.json
+LMMS,1.2.1,Creative tools,bucket/lmms.json
+Locale Emulator,2.4.1.0,Windows utilities,bucket/locale-emulator.json
+LockHunter,3.3.4,Windows utilities,bucket/lockhunter.json
+LogExpert,1.8.2,Developer tools,bucket/logexpert.json
+LosslessCut,2.6.2,Creative tools,bucket/losslesscut.json
+Lunacy,4.9.0,Creative tools,bucket/lunacy.json
+MagicaVoxel,0.99.4,Creative tools,bucket/MagicaVoxel.json
+Mailspring,1.7.2,"Internet, messaging & games",bucket/mailspring.json
+MakeHuman,1.1.1,Creative tools,bucket/makehuman.json
+MakeMKV,1.14.7,Creative tools,bucket/makemkv.json
+ManicTime,4.4.4.0,"Reading, office & science",bucket/manictime.json
+Mark Text,0.15.1,"Reading, office & science",bucket/marktext.json
+Markdown Monster,1.20.7,"Reading, office & science",bucket/markdown-monster.json
+Mattermost Desktop,4.3.2,"Internet, messaging & games",bucket/mattermost.json
+Maxima,5.43.0,"Reading, office & science",bucket/maxima.json
+MaxTo,2.0.1,Windows utilities,bucket/maxto.json
+MComix,1.2.1,Creative tools,bucket/mcomix.json
+Media Player Classic Home Cinema,1.7.13,Creative tools,bucket/mpc-hc.json
+MediaInfo,19.09,Creative tools,bucket/mediainfo-gui.json
+MEGAsync,4.2.5.0,"Internet, messaging & games",bucket/megasync.json
+MeGUI,2896,Creative tools,bucket/megui.json
+Meld,3.20.0,Developer tools,bucket/meld.json
+Mem Reduct,3.3.5,Windows utilities,bucket/memreduct.json
+MeshLab,2016.12,Creative tools,bucket/meshlab.json
+MicroSIP,3.19.22,"Internet, messaging & games",bucket/microsip.json
+Milton,1.9.1,Creative tools,bucket/milton.json
+MKVToolNix,41.0.0,Creative tools,bucket/mkvtoolnix.json
+MobaXterm,12.4,"Internet, messaging & games",bucket/mobaxterm.json
+Mockoon,1.7.0,Developer tools,bucket/mockoon.json
+MongoDB Compass Community,1.20.4,Developer tools,bucket/mongodb-compass-community.json
+Motrix,1.4.1,"Internet, messaging & games",bucket/motrix.json
+Mozilla Firefox,71.0,"Internet, messaging & games",bucket/firefox.json
+mp3DirectCut,2.27,Creative tools,bucket/mp3directcut.json
+Mp3tag,2.99a,Creative tools,bucket/mp3tag.json
+MPC-BE,1.5.4.4969,Creative tools,bucket/mpc-be.json
+MPlayer,38151,Creative tools,bucket/mplayer.json
+mpv,0.31.0,Creative tools,bucket/mpv.json
+mpv.net,5.4.4.0,Creative tools,bucket/mpv.net.json
+MQTT Explorer,0.3.5,Developer tools,bucket/mqtt-explorer.json
+mRemoteNG,1.76.20.24615,"Internet, messaging & games",bucket/mremoteng.json
+MSI Afterburner,4.6.1,Windows utilities,bucket/msiafterburner.json
+Mu Editor,1.0.2,Developer tools,bucket/mu-editor.json
+Multi Commander,9.5.0.2570,Windows utilities,bucket/multicommander.json
+Mumble,1.3.0,"Internet, messaging & games",bucket/mumble.json
+MuPDF,1.16.0,"Reading, office & science",bucket/mupdf.json
+Museeks,0.11.1,Creative tools,bucket/museeks.json
+MuseScore,3.3.4.9066,Creative tools,bucket/musescore.json
+MusicBee,3.3.7261,Creative tools,bucket/musicbee.json
+MusicBrainz Picard,2.2.3,Creative tools,bucket/picard.json
+musikcube,0.70.0,Creative tools,bucket/musikcube.json
+Musique,1.7,Creative tools,bucket/musique.json
+MyPaint,1.2.1,Creative tools,bucket/mypaint.json
+NAPS2,6.1.2,Creative tools,bucket/naps2.json
+Natron,2.3.14,Creative tools,bucket/natron.json
+NetBeans,11.2,Developer tools,bucket/netbeans.json
+Netron,3.7.2,Developer tools,bucket/netron.json
+Nextcloud Desktop,2.6.2,"Internet, messaging & games",bucket/nextcloud.json
+NexusFont,2.6.2.1870,Windows utilities,bucket/nexusfont.json
+nomacs,3.12.1,Creative tools,bucket/nomacs.json
+Notable,1.8.2,"Reading, office & science",bucket/notable.json
+Notejoy,1.9.2,"Reading, office & science",bucket/notejoy.json
+Notepad++,7.8.2,Developer tools,bucket/notepadplusplus.json
+Notepad2,4.2.25,Developer tools,bucket/notepad2.json
+Notepad3,5.19.815.2595,Developer tools,bucket/notepad3.json
+NSIS,3.05,Developer tools,bucket/nsis.json
+nteract,0.15.0,"Reading, office & science",bucket/nteract.json
+NuGet Package Explorer,5.5.28,Developer tools,bucket/nuget-package-explorer.json
+O&O AppBuster,1.1.1339,Windows utilities,bucket/appbuster.json
+OBS Studio,24.0.3,Creative tools,bucket/obs-studio.json
+ocenaudio,3.7.9,Creative tools,bucket/ocenaudio.json
+OmegaT,5.1.0,"Reading, office & science",bucket/omegat.json
+OnionShare,2.2,"Internet, messaging & games",bucket/onionshare.json
+ONLYOFFICE Desktop Editors,5.4.2,"Reading, office & science",bucket/onlyoffice-desktopeditors.json
+Open Hardware Monitor,0.8.0,Windows utilities,bucket/openhardwaremonitor.json
+OpenMPT,1.28.09.00,Creative tools,bucket/openmpt.json
+OpenSCAD,2019.05,Creative tools,bucket/openscad.json
+OpenShot,2.4.4,Creative tools,bucket/openshot.json
+OpenVPN,2.4.8,"Internet, messaging & games",bucket/openvpn.json
+Opera,65.0.3467.78,"Internet, messaging & games",bucket/opera.json
+P4Merge,152.131.2139,Developer tools,bucket/p4merge.json
+Paint.NET,4.2.8,Creative tools,bucket/paint.net.json
+Pale Moon,28.8.0,"Internet, messaging & games",bucket/palemoon.json
+Password Safe,3.51.0,"Internet, messaging & games",bucket/pwsafe.json
+PDF-XChange Editor,8.0.335.0,"Reading, office & science",bucket/pdf-xchange-editor.json
+PDFsam Basic,4.0.5,"Reading, office & science",bucket/pdfsam.json
+PeaZip,7.0.1,Windows utilities,bucket/peazip.json
+Pencil,3.1.0,Creative tools,bucket/pencil.json
+Persepolis Download Manager,3.2.0.0,"Internet, messaging & games",bucket/persepolis.json
+PhotoDemon,7.0.1,Creative tools,bucket/photodemon.json
+PhotoFlare,1.6.1.0,Creative tools,bucket/photoflare.json
+PhraseExpress,14.0.171,Windows utilities,bucket/phraseexpress.json
+PicoTorrent,0.17.0,"Internet, messaging & games",bucket/picotorrent.json
+Playnite,6.4,"Internet, messaging & games",bucket/playnite.json
+Plex Media Player,2.47.0.1035-e74d341b,"Internet, messaging & games",bucket/plex-player.json
+Poedit,2.2.4,"Reading, office & science",bucket/poedit.json
+Postman,7.14.0,Developer tools,bucket/postman.json
+PotPlayer,1.7.20977,Creative tools,bucket/potplayer.json
+POV-Ray,3.7.0,Creative tools,bucket/pov-ray.json
+PowerToys,0.14.1,Windows utilities,bucket/powertoys.json
+PPSSPP,1.9.3,"Internet, messaging & games",bucket/ppsspp.json
+Praat,6.1.08,"Reading, office & science",bucket/praat.json
+Prime95,29.8b6,Windows utilities,bucket/prime95.json
+Process Hacker,2.39,Windows utilities,bucket/processhacker.json
+Processing,3.5.3,Creative tools,bucket/processing.json
+PrusaSlicer,2.1.1,Creative tools,bucket/prusaslicer.json
+PSPad,5.0.2,Developer tools,bucket/pspad.json
+PureRef,1.9.2,Creative tools,bucket/pureref.json
+PuTTY,0.73,"Internet, messaging & games",bucket/putty.json
+PyBitmessage,0.6.3.2,"Internet, messaging & games",bucket/bitmessage.json
+PyCharm Community Edition,2019.3.1,Developer tools,bucket/pycharm.json
+Qalculate!,3.6.0,"Reading, office & science",bucket/qalculate.json
+qBittorrent,4.2.1,"Internet, messaging & games",bucket/qbittorrent.json
+qimgv,0.8.8,Creative tools,bucket/qimgv.json
+qTox,1.16.3,"Internet, messaging & games",bucket/qtox.json
+QTranslate,6.7.3,"Reading, office & science",bucket/qtranslate.json
+QuickLook,3.6.5,Windows utilities,bucket/quicklook.json
+QuickViewer,1.1.8,Creative tools,bucket/quickviewer.json
+QuiteRSS,0.19.2,"Reading, office & science",bucket/quiterss.json
+Quod Libet,4.2.1,Creative tools,bucket/quodlibet.json
+qutebrowser,1.8.3,"Internet, messaging & games",bucket/qutebrowser.json
+Rainmeter,4.3.1,Windows utilities,bucket/rainmeter.json
+Rambox,0.7.3,"Internet, messaging & games",bucket/rambox.json
+RawTherapee,5.7,Creative tools,bucket/rawtherapee.json
+REAPER,6.02,Creative tools,bucket/reaper.json
+Recuva,1.53.1087,Windows utilities,bucket/recuva.json
+Ren'Py,7.3.5,Developer tools,bucket/renpy.json
+ReNamer,7.1,Windows utilities,bucket/renamer.json
+RenderDoc,1.5,Creative tools,bucket/renderdoc.json
+Resource Hacker,5.1.7,Windows utilities,bucket/resource-hacker.json
+RetroArch,1.8.2,"Internet, messaging & games",bucket/retroarch.json
+RetroShare,0.6.5,"Internet, messaging & games",bucket/retroshare.json
+Riot Desktop,1.5.6,"Internet, messaging & games",bucket/riot.json
+Robo 3T,1.3.1,Developer tools,bucket/robo3t.json
+Rocket.Chat Desktop,2.17.2,"Internet, messaging & games",bucket/rocketchat-client.json
+RStudio,1.2.5033,"Reading, office & science",bucket/rstudio.json
+Rufus,3.8,Windows utilities,bucket/rufus.json
+SABnzbd,2.3.9,"Internet, messaging & games",bucket/sabnzbd.json
+ScanTailor Advanced,1.0.16,Creative tools,bucket/scantailor-advanced.json
+Schism Tracker,20190805,Creative tools,bucket/schismtracker.json
+SciTE,4.2.3,Developer tools,bucket/scite.json
+Scopy,1.1.1,"Reading, office & science",bucket/scopy.json
+ScreenToGif,2.19.3,Creative tools,bucket/screentogif.json
+Scribus,1.4.8,Creative tools,bucket/scribus.json
+Shareaza,2.7.10.2,"Internet, messaging & games",bucket/shareaza.json
+ShareX,13.0.1,Windows utilities,bucket/sharex.json
+SharpKeys,3.9,Windows utilities,bucket/sharpkeys.json
+Shotcut,19.12.31,Creative tools,bucket/shotcut.json
+Sigil,1.0.0,"Reading, office & science",bucket/sigil.json
+Signal Desktop,1.29.3,"Internet, messaging & games",bucket/signal.json
+Simplenote,1.12.0,"Reading, office & science",bucket/simplenote.json
+Skype,8.55.0.141,"Internet, messaging & games",bucket/skype.json
+Slack,4.3.0,"Internet, messaging & games",bucket/slack.json
+Slic3r,1.3.0,Creative tools,bucket/slic3r.json
+SmartGit,19.1.5,Developer tools,bucket/smartgit.json
+SmartSVN,11.0.3,Developer tools,bucket/smartsvn.json
+Snipaste,1.16.2,Creative tools,bucket/snipaste.json
+SoapUI,5.5.0,Developer tools,bucket/soapui.json
+SoulseekQt,2019-7-22,"Internet, messaging & games",bucket/soulseekqt.json
+Sourcetrail,2019.4.61,Developer tools,bucket/sourcetrail.json
+Sourcetree,3.3.6,Developer tools,bucket/sourcetree.json
+SpaceSniffer,1.3.0.2,Windows utilities,bucket/spacesniffer.json
+Speccy,1.32.740,Windows utilities,bucket/speccy.json
+SpeedCrunch,0.12,"Reading, office & science",bucket/speedcrunch.json
+SpeedFan,4.52,Windows utilities,bucket/speedfan.json
+Spek,0.8.2,Creative tools,bucket/spek.json
+SQL Workbench/J,125,Developer tools,bucket/sql-workbench.json
+SQLiteStudio,3.2.1,Developer tools,bucket/sqlitestudio.json
+SQLyog Community,13.1.5,Developer tools,bucket/sqlyog-community.json
+SQuirreL SQL Client,4.0.0,Developer tools,bucket/squirrel-sql.json
+Standard Notes,3.0.24,"Reading, office & science",bucket/standardnotes.json
+Strawberry Music Player,0.6.7,Creative tools,bucket/strawberry.json
+Streamlabs OBS,0.19.4,Creative tools,bucket/streamlabs-obs.json
+Streamlink Twitch GUI,1.9.0,"Internet, messaging & games",bucket/streamlink-twitch-gui.json
+Sublime Merge,1119,Developer tools,bucket/sublime-merge.json
+Sublime Text,3211,Developer tools,bucket/sublime-text.json
+Subtitle Edit,3.5.11,Creative tools,bucket/subtitleedit.json
+SumatraPDF,3.1.2,"Reading, office & science",bucket/sumatrapdf.json
+Sweet Home 3D,6.2,Creative tools,bucket/sweethome3d.json
+SyncTrayzor,1.1.24,Windows utilities,bucket/synctrayzor.json
+Synfig Studio,1.2.2,Creative tools,bucket/synfig-studio.json
+Tabula,1.2.1,"Reading, office & science",bucket/tabula.json
+TagScanner,6.1.2,Creative tools,bucket/tagscanner.json
+TagSpaces,3.3.2,"Reading, office & science",bucket/tagspaces.json
+TeamSpeak 3,3.3.2,"Internet, messaging & games",bucket/teamspeak3.json
+TeamViewer,15.1.3937,"Internet, messaging & games",bucket/teamviewer.json
+Telegram Desktop,1.9.3,"Internet, messaging & games",bucket/telegram.json
+Tera Term,4.105,Developer tools,bucket/teraterm.json
+Texmaker,5.0.3,"Reading, office & science",bucket/texmaker.json
+TeXstudio,2.12.18,"Reading, office & science",bucket/texstudio.json
+Textadept,10.7,Developer tools,bucket/textadept.json
+Thonny,3.2.5,Developer tools,bucket/thonny.json
+Thunderbird,68.3.1,"Internet, messaging & games",bucket/thunderbird.json
+TightVNC,2.8.27,"Internet, messaging & games",bucket/tightvnc.json
+Tixati,2.66,"Internet, messaging & games",bucket/tixati.json
+ToDoList,7.2.22,"Reading, office & science",bucket/todolist.json
+Tor Browser,9.0.2,"Internet, messaging & games",bucket/tor-browser.json
+TortoiseSVN,1.13.1.28686,Developer tools,bucket/tortoisesvn.json
+Total Commander,9.22a,Windows utilities,bucket/totalcommander.json
+TrafficMonitor,1.77,Windows utilities,bucket/trafficmonitor.json
+TranslucentTB,2019.2,Windows utilities,bucket/translucenttb.json
+Transmission,2.94,"Internet, messaging & games",bucket/transmission.json
+TreeSize Free,4.4.1,Windows utilities,bucket/treesize-free.json
+Tribler,7.3.2,"Internet, messaging & games",bucket/tribler.json
+Trilium Notes,0.38.3,"Reading, office & science",bucket/trilium.json
+Turtl,0.7.2.5,"Reading, office & science",bucket/turtl.json
+Typora,0.9.9.83,"Reading, office & science",bucket/typora.json
+ueli,8.4.2,Windows utilities,bucket/ueli.json
+Ultimaker Cura,4.4.1,Creative tools,bucket/cura.json
+Veusz,3.1,"Reading, office & science",bucket/veusz.json
+VidCoder,5.13,Creative tools,bucket/vidcoder.json
+VidCutter,6.0.0,Creative tools,bucket/vidcutter.json
+Vidiot,0.3.29,Creative tools,bucket/vidiot.json
+VirtualDub,1.10.4.35491,Creative tools,bucket/virtualdub.json
+Visual Studio Code,1.41.1,Developer tools,bucket/vscode.json
+Vivaldi,2.10.1745.23,"Internet, messaging & games",bucket/vivaldi.json
+VLC,3.0.8,Creative tools,bucket/vlc.json
+VNC Viewer,6.19.1115,"Internet, messaging & games",bucket/vncviewer.json
+VNote,2.8.2,"Reading, office & science",bucket/vnote.json
+VSCodium,1.41.1,Developer tools,bucket/vscodium.json
+Waterfox Classic,2019.12,"Internet, messaging & games",bucket/waterfox.json
+WebStorm,2019.3.1,Developer tools,bucket/webstorm.json
+WebTorrent Desktop,0.21.0,"Internet, messaging & games",bucket/webtorrent.json
+WhatsApp Desktop,0.3.9309,"Internet, messaging & games",bucket/whatsapp.json
+Win32 Disk Imager,1.0.0,Windows utilities,bucket/win32-disk-imager.json
+Winaero Tweaker,0.16.1,Windows utilities,bucket/winaero-tweaker.json
+WinAuth,3.6.2,Windows utilities,bucket/winauth.json
+WinCDEmu,4.0,Windows utilities,bucket/wincdemu.json
+WinCompose,0.9.4,Windows utilities,bucket/wincompose.json
+WinDirStat,1.1.2,Windows utilities,bucket/windirstat.json
+Windows Terminal,0.7.3451.0,Developer tools,bucket/windows-terminal.json
+WinMerge,2.16.4,Developer tools,bucket/winmerge.json
+WinRAR,5.80,Windows utilities,bucket/winrar.json
+WinSCP,5.15.9,"Internet, messaging & games",bucket/winscp.json
+Winyl,3.3.1,Creative tools,bucket/winyl.json
+Wire,3.11.3259,"Internet, messaging & games",bucket/wire.json
+Wireshark,3.2.0,"Internet, messaging & games",bucket/wireshark.json
+WizFile,2.06,Windows utilities,bucket/wizfile.json
+WizTree,3.30,Windows utilities,bucket/wiztree.json
+Workrave,1.10.34,Windows utilities,bucket/workrave.json
+Wox,1.3.524,Windows utilities,bucket/wox.json
+WPS Office,11.2.0.9107,"Reading, office & science",bucket/wpsoffice.json
+wxHexEditor,0.24,Developer tools,bucket/wxhexeditor.json
+X-Mouse Button Control,2.18.8,Windows utilities,bucket/xmousebuttoncontrol.json
+XMedia Recode,3.4.8.7,Creative tools,bucket/xmedia-recode.json
+XMind 8,3.7.8,"Reading, office & science",bucket/xmind8.json
+XMPlay,3.8.4,Creative tools,bucket/xmplay.json
+XnView MP,0.94.2,Creative tools,bucket/xnviewmp.json
+XYplorer,17.40.0100,Windows utilities,bucket/xyplorer.json
+YACReader,9.6.2.1909283,Creative tools,bucket/yacreader.json
+yEd Graph Editor,3.19.1.1,"Reading, office & science",bucket/yed.json
+Zeal,0.6.1,Developer tools,bucket/zeal.json
+Zettlr,1.4.3,"Reading, office & science",bucket/zettlr.json
+Zotero,5.0.80,"Reading, office & science",bucket/zotero.json
+Zulip Desktop,4.0.0,"Internet, messaging & games",bucket/zulip.json

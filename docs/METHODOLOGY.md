@@ -18,3 +18,13 @@ Never infer a version number from an announcement date. Record evidence URLs, re
 
 ## Download links
 Prefer official vendor archives and signed release assets. If a reliable historical download cannot be found, leave it blank. Do not host proprietary binaries or bypass licensing/signatures. Warn users that old versions may be insecure or unsupported.
+
+## Reading the expanded catalog
+
+The historical CSV files store `observed_version` separately from the reviewed JSON field `last_pre_llm_version`. A dated sighting establishes that a version existed by that date. A release date requires its own evidence. The snapshots have separate [provenance and selection notes](../data/snapshots/README.md).
+
+A stable channel, an early-access channel and a community fork can have different cutoffs. Built-in features that require opt-in or a user-supplied API key count as integrations. Independently installed third-party plugins are outside the stock edition. A first-party generative experience reached through the host app's own navigation counts even when a server delivers it. Its delivery mechanism belongs in the record.
+
+For a discontinued app, `boundary_kind: final_release` records the publisher's final qualifying version in the specified edition. The first-AI fields remain empty. A retirement date and a release date can differ by years.
+
+The optional `observed_versions` and `documented_rollouts` arrays record dated build sightings and feature reports individually. `observed_by` and `documented_by` express the latest date by which the cited evidence shows an observation. A source covering a product family may leave OS-specific eligibility unresolved. `download_url` points to a publisher's release or archive page when a relevant historical installer is listed.
